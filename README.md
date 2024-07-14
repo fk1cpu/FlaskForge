@@ -1,5 +1,7 @@
 # FlaskForge
 
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/SOMATECH-20/Cpp-repo?style=plastic&logo=Github) ![GitHub repo size](https://img.shields.io/github/repo-size/SOMATECH-20/Cpp-repo?style=plastic&logo=Github&label=Size)
+
 FlaskForge is a command-line tool to generate a skeleton for a Flask web application. It sets up the directory structure, creates virtual environments, installs dependencies, generates boilerplate code, and configures CI/CD pipelines.
 
 ## Features

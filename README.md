@@ -161,5 +161,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 - [Jinja2]()
 - [Flask-SQLAlchemy]()
 - [Flask-Migrate]()
-
-- `> more ...`

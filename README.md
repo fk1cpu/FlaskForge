@@ -1,6 +1,6 @@
 # FlaskForge
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/fk1cpu/FlaskForge.git?style=plastic&logo=Github) ![GitHub repo size](https://img.shields.io/github/repo-size/fk1cpu/FlaskForge.git?style=plastic&logo=Github&label=Size)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/fk1cpu/FlaskForge?style=plastic&logo=Github) ![GitHub repo size](https://img.shields.io/github/repo-size/fk1cpu/FlaskForge?style=plastic&logo=Github&label=Size)
 
 FlaskForge is a command-line tool to generate a skeleton for a Flask web application. It sets up the directory structure, creates virtual environments, installs dependencies, generates boilerplate code, and configures CI/CD pipelines.
 
